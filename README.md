@@ -1,16 +1,16 @@
-### Hi there 👋
+###  Boas vindas ao seu perfil 🖤
 
-<!--
-**MariaEduardaRamos3A/MariaEduardaRamos3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda Ramos Dos Santos
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-estou me desenvolvendo na linguagem javaScript 
+-utilizo esse espaço para minha organização e compatilhando em seus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📧
+
+00001078501555sp@al.educacao.sp.gov.br 
+
+@e_duaeda80
+
+![image](https://github.com/MariaEduardaRamos3A/MariaEduardaRamos3A/assets/169897189/aad3d283-aa60-4751-bc8a-2376e0c00414)
+
