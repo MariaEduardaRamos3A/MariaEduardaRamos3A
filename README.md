@@ -2,7 +2,7 @@
 
 Meu nome é Maria Eduarda Ramos Dos Santos
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br) 
 -estou me desenvolvendo na linguagem javaScript 
 -utilizo esse espaço para minha organização e compatilhando em seus projetos desenvolvidos
 
